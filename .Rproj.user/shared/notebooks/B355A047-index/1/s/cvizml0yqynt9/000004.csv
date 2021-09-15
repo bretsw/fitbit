@@ -1,0 +1,7 @@
+"0","ggplot(health_df, aes(x=date, y=resting_hr)) +"
+"0","  geom_point() +"
+"0","  geom_smooth() +"
+"0","  xlab(NULL) +"
+"0","  ylab(""Beats per Minute while Resting"") +"
+"0","  ggtitle(""Resting Heart Rate"") +"
+"0","  theme_bw()"
